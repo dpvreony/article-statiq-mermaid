@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+src/StatiqMermaid.Website/input/img/mermaiduml/*.svg
+src/StatiqMermaid.Website/input/img/mermaiduml/*.png
+src/StatiqMermaid.Website/output
