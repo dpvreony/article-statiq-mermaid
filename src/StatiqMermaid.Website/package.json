@@ -1,0 +1,26 @@
+{
+    "name": "dpvreony-statiq-mermaid-article",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@mermaid-js/mermaid-cli": "^8.10.1",
+        "grunt": "1.4.1",
+        "grunt-contrib-clean": "2.0.0",
+        "grunt-contrib-concat": "1.0.1",
+        "grunt-contrib-jshint": "3.0.0",
+        "grunt-contrib-uglify": "5.0.1",
+        "grunt-contrib-watch": "1.1.0",
+        "gulp": "4.0.2",
+        "gulp-concat": "2.6.1",
+        "gulp-uglify": "3.0.2",
+        "merge-stream": "2.0.0",
+        "rimraf": "3.0.2"
+    },
+    "dependencies": {
+        "bootstrap": "5.0.1",
+        "cookieconsent": "3.1.1",
+        "@fortawesome/fontawesome-free": "5.15.3",
+        "jquery": "^3.6.0",
+        "highlight.js": "^11.0.0",
+        "@popperjs/core": "2.9.2"
+    }
+}
