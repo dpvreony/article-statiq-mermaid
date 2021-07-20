@@ -351,4 +351,6 @@ MigrationBackup/
 
 src/StatiqMermaid.Website/input/img/mermaiduml/*.svg
 src/StatiqMermaid.Website/input/img/mermaiduml/*.png
-src/StatiqMermaid.Website/output
+output/
+lib/
+**/cache/
