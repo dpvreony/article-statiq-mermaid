@@ -55,12 +55,6 @@ jobs:
         npm install
         popd
 
-    - name: NPM outdated check
-      run: |
-        pushd src\StatiqMermaid.Website\
-        npm outdated
-        popd
-
     - name: Restore Packages
       run: |
         dotnet restore ${{ env.solutionpath }} /bl:artifacts\\binlog\\restore.binlog
