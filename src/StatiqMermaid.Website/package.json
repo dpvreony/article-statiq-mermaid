@@ -10,6 +10,6 @@
         "@fortawesome/fontawesome-free": "5.15.4",
         "jquery": "^3.6.0",
         "highlight.js": "^11.2.0",
-        "@popperjs/core": "2.10.1"
+        "@popperjs/core": "2.10.2"
     }
 }
