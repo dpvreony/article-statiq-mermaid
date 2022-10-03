@@ -43,7 +43,7 @@ jobs:
     - name: Verify if Pull Request merge
       run: echo 'Pull Request Merged is ${{ github.event.pull_request.merged }}'
       
-    - uses: actions/setup-dotnet@v2
+    - uses: actions/setup-dotnet@v3
       name: Setup Dot Net 
       
     - name: Checkout 
