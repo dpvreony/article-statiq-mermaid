@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.57" />
+    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.58" />
   </ItemGroup>
 
   <!-- these tasks remove the need for gulp, grunt, npm, etc. to be used for file copying -->
