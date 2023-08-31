@@ -2,7 +2,7 @@
     "name": "dpvreony-statiq-mermaid-article",
     "version": "1.0.0",
     "devDependencies": {
-        "@mermaid-js/mermaid-cli": "10.3.1"
+        "@mermaid-js/mermaid-cli": "10.4.0"
     },
     "dependencies": {
         "bootstrap": "5.3.1",
