@@ -11,6 +11,7 @@ namespace StatiqMermaid.Website
             return await Bootstrapper
                 .Factory
                 .CreateWeb(args)
+                .AddPipeline<Whipstaff.Statiq.Mermaid.MermaidDiagramPipeline>()
                 .RunAsync();
         }
     }
