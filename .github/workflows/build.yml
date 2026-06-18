@@ -47,7 +47,7 @@ jobs:
       name: Setup Dot Net 
       
     - name: Checkout 
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
 
     - name: NPM package restore
       run: |
